@@ -1,6 +1,8 @@
 :root {
-  --background-primary: var(--bg-1);
-  --background-secondary: var(--bg-1);
-  --background-tertiary: var(--bg-1);
-  --background-floating: var(--bg-1);
+  --background-primary: $color1;
+  --background-secondary: $color1;
+  --background-secondary-alt: $color1;
+  --background-tertiary: $color1;
+  --background-floating: $color1;
+  --green-360: $accent1;
 }
