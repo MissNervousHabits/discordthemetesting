@@ -1,3 +1,7 @@
 :root {
-  --background-primary: pink;
+  --background-primary: var(--bg-1);
 }
+
+.cozyMessage__9f4fd.groupStart__7b93c {
+  display: none;
+}/*# sourceMappingURL=main.css.map */
