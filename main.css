@@ -1,3 +1,4 @@
 :root {
   --background-primary: var(--bg-1);
-}/*# sourceMappingURL=main.css.map */
+  --background-secondary: var(--bg-2);
+}
