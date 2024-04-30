@@ -11,5 +11,23 @@
 }
 
 .themedBackground__3a4c0 {
-  background: var(--bg-primary);
+  background: var(--bg-secondary);
+  border-radius: var(--border-radii);
+}
+
+.cozy_f5c119 .messageContent_abea64 {
+  background: var(--bg-secondary);
+  padding: 10px;
+  margin-left: 0;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: var(--border-radii);
+}
+
+.container__62863 {
+  background: var(--bg-secondary);
+  padding: 10px;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: var(--border-radii);
 }
