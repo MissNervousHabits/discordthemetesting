@@ -5,7 +5,9 @@
   --background-tertiary: var(--bg-primary);
   --background-floating: var(--bg-primary);
   --green-360: var(--accent-1);
-  --interactive-active: var(--interactive-highlight);
+  --background-modifier-selected: var(--interactive-highlight);
+  --background-modifier-active: var(--interactive-highlight);
+  --background-modifier-hover: var(--interactive-highlight);
 }
 
 .themedBackground__3a4c0 {
