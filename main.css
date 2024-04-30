@@ -6,3 +6,7 @@
   --background-floating: var(--bg-primary);
   --green-360: var(--accent-1);
 }
+
+.themedBackground__3a4c0 {
+  background-color: var(--bg-primary);
+}
