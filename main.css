@@ -32,4 +32,5 @@
   width: -moz-fit-content;
   width: fit-content;
   border-radius: var(--border-radii);
+  margin-top: 5px;
 }
