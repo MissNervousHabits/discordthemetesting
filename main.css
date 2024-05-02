@@ -49,3 +49,11 @@
   background: transparent;
   border-radius: 0;
 }
+
+.messageGroupWrapper__1fce2 {
+  background: var(--bg-secondary);
+}
+
+.header__21b33, .messagesPopout__28784 {
+  background: var(--bg-secondary);
+}
