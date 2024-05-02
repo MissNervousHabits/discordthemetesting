@@ -43,3 +43,9 @@
 .reaction__4a43f {
   background: var(--bg-secondary);
 }
+
+.repliedMessage__636d2 .repliedTextPreview__1a8a4 .repliedTextContent_b12fe1, .threadMessageAccessory_ef0459 .threadMessageAccessoryPreview__58ff3 .threadMessageAccessoryContent__42312 {
+  padding: 0px;
+  background: transparent;
+  border-radius: 0;
+}
