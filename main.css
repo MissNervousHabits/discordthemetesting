@@ -57,3 +57,11 @@
 .header__21b33, .messagesPopout__28784 {
   background: var(--bg-secondary);
 }
+
+.theme-dark .themed_b152d4 {
+  background: var(--bg-primary);
+}
+
+.theme-dark .children_cde9af:after {
+  display: none;
+}
