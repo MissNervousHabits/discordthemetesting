@@ -12,12 +12,12 @@
   --font-primary: "Open Sans";
 }
 
-.themedBackground__3a4c0 {
+.themedBackground_d0696b {
   background: var(--bg-secondary);
   border-radius: var(--border-radii);
 }
 
-.cozy_f5c119 .messageContent_abea64 {
+.cozy_ec86aa .messageContent_ec86aa {
   background: var(--bg-secondary);
   padding: 10px;
   margin-left: 0;
@@ -26,7 +26,7 @@
   border-radius: var(--border-radii);
 }
 
-.container__62863 {
+.container_b558d0 {
   background: var(--bg-secondary);
   padding: 10px;
   width: -moz-fit-content;
